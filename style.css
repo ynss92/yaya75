@@ -1,0 +1,11 @@
+h1 {
+    color: rgb(153, 0, 255);
+}
+p {
+    font-family: Arial, sans-serif;
+}
+a {
+    border: 1px solid black;
+    padding: 5px;
+    text-decoration: none;
+}
